@@ -1,2 +1,2 @@
 # Educat
-Front-end of an online education platform
+responsive front-end education website
